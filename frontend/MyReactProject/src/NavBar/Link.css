@@ -1,0 +1,35 @@
+#subnav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex: 0;
+    width: 100%;
+    padding-top: 8.9rem;
+    padding-right: 0.4rem;
+    padding-left: 0.4rem;
+    box-sizing: border-box;
+    user-select: none;
+    font-size: 2.3rem;
+    line-height: 2.3rem;
+    font-weight: 600;
+    color: white; }
+  
+  a.subnav_link:link {
+    text-decoration: none; }
+  
+  a.subnav_link:hover {
+    cursor: pointer;
+    color: white; }
+  
+  a.subnav_link:visited {
+    color: white; }
+  
+  a.subnav_link:active {
+    color: white; }
+  
+  .subnav_menu-spacer {
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    color: gray; }
+  
