@@ -10,22 +10,34 @@ Every single transaction creates single block which includes tx info, and provid
 
 Backend framework is Spring Boot, and frontend one is React
 
+
 Log-in page
 
-![image](https://user-images.githubusercontent.com/73169711/145532495-0c0e02bb-0afc-4d51-b5f5-348f2c385375.png)
+
+![image](https://user-images.githubusercontent.com/73169711/145533805-c5df04ae-5311-48d1-b036-f69878a17380.png)
+
+
 
 Pool info page(price ratio, liquidity mining
 
-![image](https://user-images.githubusercontent.com/73169711/145532616-de60fb13-8f5d-44e1-940f-fb8bb42914ab.png)
+
+![image](https://user-images.githubusercontent.com/73169711/145533916-28a22895-65e8-4d66-9c9f-43e7af52e3cd.png)
+
 
 Wallet info page
 
-![image](https://user-images.githubusercontent.com/73169711/145532734-9dea4d8c-0373-493d-a071-57ed3ba22f6c.png)
+
+![image](https://user-images.githubusercontent.com/73169711/145533966-d9b38140-2ecc-4a67-bfa6-c08dcbf5eee1.png)
+
 
 Swap page
 
-![image](https://user-images.githubusercontent.com/73169711/145532803-cc85b52b-150b-4065-b961-58d7e4277e55.png)
+
+![image](https://user-images.githubusercontent.com/73169711/145533624-04f44b31-faa1-4b62-96f5-39cdfbd145b7.png)
+
 
 Block info page
 
-![image](https://user-images.githubusercontent.com/73169711/145532934-999daa95-502c-425e-a3b4-8c2f33c6e1db.png)
+
+![image](https://user-images.githubusercontent.com/73169711/145533572-edbeab03-72a1-4ed1-9c27-44dbc297e420.png)
+
