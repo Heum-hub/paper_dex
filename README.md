@@ -18,7 +18,7 @@ Log-in page
 
 
 
-Pool info page(price ratio, liquidity mining
+Pool info page(price ratio, liquidity mining)
 
 
 ![image](https://user-images.githubusercontent.com/73169711/145533916-28a22895-65e8-4d66-9c9f-43e7af52e3cd.png)
