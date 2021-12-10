@@ -6,7 +6,7 @@ People can trade and farm with the paper crypto given when sign up
 
 ETH/BTC, ADA/BTC, EOS/BTC, OMG/BTC, DAI/BTC pairs are provided so that BTC is utilised as "key currency" when trading pair doesn't include BTC
 
-Every single transaction creates single block which includes tx info, and provide view page for blocks
+Every single transaction creates single block which includes tx info, and dapp provides view page for blocks
 
 Backend framework is Spring Boot, and frontend one is React
 
