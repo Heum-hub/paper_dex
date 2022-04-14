@@ -169,12 +169,6 @@ public class DexServiceImpl implements DexService {
 
     // 4. PUT  
     // 4.1. 스왑 기능
-    // 4.1.1. 필요 변수, 메소드 선언(AMM 이용: x * y = k
-    // -> x, y는 pool의 코인 각각의 개수, k는 고정 상수)
-    private double k;
-    private double beforeSwapBtcBalance;
-    private double buyCoinAmount;
-    private double buyAmount;
     // prevBlock() -> 바로 직전의 블록 정보 반환
     private Block prevBlock() {
 
@@ -231,6 +225,11 @@ public class DexServiceImpl implements DexService {
         throws NoSuchAlgorithmException {
 
         Wallet walletToUpdate = walletRepository.findByUserId(userId);
+        
+        double k;
+        double beforeSwapBtcBalance;
+        double buyCoinAmount;
+        double buyAmount;
         
         if ( walletToUpdate.getQuantity(sellCoinName) < sellCoinAmount) {
 
